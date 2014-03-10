@@ -19,9 +19,21 @@
 <body>
   <div id="qunit"></div>
   <div id="qunit-fixture">
-    <span>lame test markup</span>
-    <span>normal test markup</span>
-    <span>awesome test markup</span>
+    <div id="default-prefix">
+      <span data-dc-test id="test-default-prefix0"></span>
+      <span data-dc-test="test" id="test-default-prefix1"></span>
+      <span data-dc-key="value" id="test-default-key"></span>
+    </div>
+    <div id="no-prefix">
+      <span data-test id="test-no-prefix0"></span>
+      <span data-test="test" id="test-no-prefix1"></span>
+      <span data-key="value" id="test-no-key"></span>
+    </div>
+    <div id="custom-prefix">
+      <span data-other-test id="test-custom-prefix0"></span>
+      <span data-other-test="test" id="test-custom-prefix1"></span>
+      <span data-other-key="value" id="test-custom-key"></span>
+    </div>
   </div>
 </body>
 </html>

@@ -1,11 +1,6 @@
-/*
- * attribute-selectors
- * https://github.com/decadecity/attribute-selectors
- *
- * Copyright (c) 2014 Orde Saunders
- * Licensed under the MIT license.
- */
-
+/*! Attribute Selectors - v0.1.0 - 2014-03-10
+* https://github.com/decadecity/attribute-selectors
+* Copyright (c) 2014 Orde Saunders; Licensed MIT */
 /**
  * Provides a basic set of helpers to handle prefixed data attributes.
  *
