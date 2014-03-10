@@ -1,0 +1,27 @@
+{
+  "name": "attribute-selectors",
+  "title": "Attribute Selectors",
+  "description": "Demo of configurable attribute selectors.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/decadecity/attribute-selectors",
+  "author": {
+    "name": "Orde Saunders",
+    "email": "orde@decadecity.net",
+    "url": "http://decadecity.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/decadecity/attribute-selectors.git"
+  },
+  "bugs": "https://github.com/decadecity/attribute-selectors/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/decadecity/attribute-selectors/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
